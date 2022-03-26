@@ -1,0 +1,10 @@
+[  
+  {
+        "codigo":"1",
+        "nome":"America Mineiro",
+        "tecnico":"teste",
+        "estado":"teste",
+        "cidade":"teste",
+        "jogadores":["blabla","blabla2"]
+    }
+]
